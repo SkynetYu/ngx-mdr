@@ -45,8 +45,8 @@ export function RenderMatrix(canvasRef: ElementRef<HTMLCanvasElement>, settings?
       backgroundColor: settings && settings.backgroundColor ? settings.backgroundColor: 'rgba(0, 0, 0, 0.05)',
       fontColor: settings && settings.fontColor ? settings.fontColor: '#0F0'
   } as MartixRainingLetterSettings;
-  console.log(_settings);
-  let fontSize = 16;
+  
+  let fontSize = _settings.fontSize;
   let alphabet = _settings.alphabet;
 
   const canvas = canvasRef.nativeElement;
