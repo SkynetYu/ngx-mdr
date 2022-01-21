@@ -3,7 +3,7 @@
 React Matrix Digital Rain Effect gives you your favorite Matrix movie screen effect in the form of a React component. The source originates from an October 2021 blog article written by Adam Nagy, ["Matrix raining code effect using JavaScript"](https://dev.to/javascriptacademy/matrix-raining-code-effect-using-javascript-4hep).
 
 ## Preview
-
+![alt text](https://raw.githubusercontent.com/SkynetYu/ngx-mdr/main/capscreen.JPG "Preview")
 
 ## Installation
 
